@@ -3,7 +3,7 @@ export default {
     // 网站标题
     title: '基于element-plus二次封装组件',
     // 部署的基础路径
-    base: '/docs/',
+    base: '/',
     // 配置网站html的head标签
     head: [],
     // 主题配置
