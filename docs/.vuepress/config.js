@@ -19,7 +19,7 @@ export default {
             //     text: '介绍',
             //     link: '/intro/',
             // },
-            { text: '快速开始', link: '/getting-started/' },
+            // { text: '快速开始', link: '/getting-started/' },
             // {
             //
             //     children: [
